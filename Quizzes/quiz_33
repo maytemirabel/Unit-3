@@ -1,0 +1,15 @@
+## Quiz 33
+#### Code
+Write the function **mystery** and pass the tests contained in the file **test_quiz_33.py**
+
+```.py
+def mystery(list1, list2):
+    output = []
+    for i in range(len(list1)):
+        for n in range(len(list2)):
+            if list1[i] == list2[n]:
+                output.append(list1[i])
+    return output
+```
+
+#### Figure 1: Proof of code
