@@ -13,3 +13,4 @@ def mystery(list1, list2):
 ```
 
 #### Figure 1: Proof of code
+<img width="1367" alt="Screen Shot 2023-01-10 at 13 53 17" src="https://user-images.githubusercontent.com/105724334/211465158-b83754de-a1c7-4871-81c9-733b11e3a5fa.png">
