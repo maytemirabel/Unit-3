@@ -40,4 +40,4 @@ class Account:
 ## Evidence of code
 <img width="945" alt="Screen Shot 2023-02-08 at 13 37 50" src="https://user-images.githubusercontent.com/105724334/217434971-e43790d6-56d7-4a5a-861a-47c0439c90f0.png">
 
-#### Figure 1: Screenshot displaying the test outcome
+##### Figure 1: Screenshot displaying the test outcome
