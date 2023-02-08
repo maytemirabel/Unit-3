@@ -44,6 +44,6 @@ class AccountingProgram(CompoundInterest):
 ##### Figure 1: Screenshot displaying the test outcome
 
 ## UML Diagram
-![IMG_6F9E956E4D27-1](https://user-images.githubusercontent.com/105724334/217577465-b0c134e9-c0fc-4b54-a60a-d0eed81de347.jpeg)
+![IMG_0594](https://user-images.githubusercontent.com/105724334/217676246-fa4a291d-fdb7-4a1e-be64-fc55a1ec7c7f.jpg)
 
 ##### Figure 2: The UML diagram for the code above
